@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: deepskyblue;
+}
+
+h1 {
+    margin: 2em;
+}
+
+section {
+    padding: 1em;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#idade {
+    margin-bottom: 10px;
+}
+
+#button {
+    margin: 10px 0px;
+}
+
+#masc {
+    margin-left: 10px;
+}
+
+#fem {
+    margin-left: 10px;
+}
+div {
+    display: block;
+}
